@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Vitoriano!
 
-<!--
-**LucasMoises/LucasMoises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em **Sistemas de Informação**  
+💼 Atualmente trabalho como **Técnico de Suporte N1** na **Tivit**  
+📊 Focado em **Análise de Dados** e desenvolvimento com **Python**  
+🌍 Falo inglês em nível **intermediário**  
+📍 Moro em **Santo André - SP**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou movido por desafios e estou sempre buscando evoluir na área de tecnologia. Atualmente estou direcionando meus estudos e projetos para o universo de **dados**, com foco em transformar informações em insights valiosos através de análises e visualizações.
+
+
+---
+
+## 💡 Tecnologias e Ferramentas
+
+- 🐍 Python (em estudo)
+- 🛠️ Git & GitHub
+- 🖥️ Suporte Técnico / Infraestrutura
+- 📊 Visualização de dados (em estudo)
+
+---
+
+## 🏋️‍♂️ Hobbies
+
+Fora do teclado, gosto de manter a mente e o corpo ativos com:
+- **Musculação**
+- **Muay Thai**
+- **Games**
+
+---
+
+## 📫 Contato
+
+Vamos conversar?  
+Você pode me encontrar por aqui:
+
+- [LinkedIn]((https://www.linkedin.com/in/lucas-mois%C3%A9s-438207158/)) 
+- [Email](vitoriano.moises@gmail.com)
+
+---
+
+🔍 Em constante evolução — sempre aprendendo, sempre compartilhando.
+
